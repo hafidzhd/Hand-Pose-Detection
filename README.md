@@ -1,1 +1,1 @@
-# Sign-Language-Classification
+# Hand-Pose-Detection
